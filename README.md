@@ -20,8 +20,6 @@ find **questions and answers** in **@Timo Körner** [repository](https://github.
 | [Powershell](https://github.com/tik9/pluralsight/blob/master/powershell.md)                                              | non-offical |
 | [Python](https://github.com/tik9/pluralsight/blob/master/python_core.md)                                                 | ok          |
 
-<img src="https://monosnap.com/image/mf3OkeABEfjiAFjYC8d0l7cE6yf52E"/>
-
 ### Table of Contents
 
 | Linkedin-quiz-questions                                                                                                                 | Status                         |
